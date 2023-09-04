@@ -4,7 +4,7 @@
 #define ECHO_PIN 10
 #define MAX_DISTANCE 400
 #define DISTANCE_ALERT 30
-#define VELOCITY  150
+#define VELOCITY  90
 #define VELOCITY_BACK 70
 
 #define ENA 6
