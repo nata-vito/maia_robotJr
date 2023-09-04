@@ -1,16 +1,16 @@
 # Maia Junior Robot
 <p align="center">
-  <img src="detection/docs/MPTCableFlowChart.drawio.png">
+  <img src=".maia_robotJr/../maiajr.jpg">
 </p>
 
-
+Este projeto visa introduzir lógica de programação nível iniciane. 
 ## Primeiros passos
-
+Tenha em mãos um Maia Jr
 ..
 
 ### Prerequisitos
 
-Para o bom funcionamento, é ideal que os requsitos abaixo sejam atendidos:
+Para o bom funcionamento, é ideal que os requesitos abaixo sejam atendidos:
 
 ...
 
